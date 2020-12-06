@@ -1,0 +1,23 @@
+Name: Tor Parawell
+Student ID#: 002354234
+Chapman email: parawell@chapman.edu
+Course Number and Section: CPSC 350
+Assignment: Assignment-5
+
+
+Brief Overview of Program:
+Data base for students and faculty. Completed with 14 different functions.  
+
+2) A list of all source	files submitted	for the	assignment
+assignment-5.h, BST.h, DoublyLinkedList.h, GenStack.h, TreeNodeT.h, Faculty.cpp, 
+FileIO.cpp, main.cpp, ManageDataBase.cpp, Person.cpp, Student.cpp, makefile
+
+3)A description	of any known compile or runtime	errors,	code limitations, or deviations
+from the assignment specification (if applicable)
+No applicable runtime errors
+
+4) A list of all references used to complete the assignment, including peers (if	applicable)
+Patrick Hooverson.
+
+5) Instructions for running the	assignment. (Typically applicable in advanced courses	using build systems or third party libraries)
+To compile: make all
